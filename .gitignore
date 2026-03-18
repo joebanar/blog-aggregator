@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test and build outputs
+*.test
+*.out
+
+# Vendor and packages
+/vendor/
+/pkg/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# Environment files
+.env
+
+# Logs
+*.log
